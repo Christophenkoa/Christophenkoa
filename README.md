@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi world I am Nkoa Christophe 👋
+I have a great background and experience ⚡. Contact me and let me help you😄
 <!--
 **Christophenkoa/Christophenkoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
