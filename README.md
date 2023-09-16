@@ -1,5 +1,6 @@
-### Hi world I am Nkoa Christophe 👋
-I have a great background and experience ⚡. Contact me and let me help you😄
+### Hi world 👋  I am Nkoa Christophe a backend guy with dirty hand of code 🤔😄
+I have a great background and experience ⚡
+Contact me and allow me to bring values in your project 😄
 <!--
 **Christophenkoa/Christophenkoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
